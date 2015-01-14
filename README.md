@@ -29,6 +29,7 @@ If you're most familiar with a specific library or framework, by all means use i
 - [ ] By default, right-pane is empty.
 - [ ] User selects a contact from the left-pane, which will then populate the right-pane.
 - [ ] User selects a different contact, and the right-pane will reflect that change.
+- [ ] The right-pane, at minimum, should show the user's name.  All other information in `contacts.json` is there in case you wanted more info about fake people :)
 
 
 Take a deep breath, because here comes some awesome!
